@@ -1,5 +1,8 @@
-#probandi Git
--vamos a probar Git
+#probando Git
+- vamos a probar Git
 - primero creamos el repositorio en local
 - añadimos este README.md
-realizamos el primer commit
+- realizamos el primer commit
+
+- Esto es una actualización del archivo.
+- Esto es una segunda actualizacion porque la primera no va
