@@ -10,3 +10,6 @@
 - Para hacer un commit hay que poner git commit -m "comentario"
 
 - Este es el cuarto commit. 
+- Para ver cada commit hay que hacer git log
+- Luego para ver una linea hay que poner git --oneline
+- Para volver a la version anterior hay que ir a git checkout y poner el codigo
